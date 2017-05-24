@@ -1,9 +1,10 @@
 
 # Advanced topics in Machine Learning
 #### Course at UCL (University College London) by Google DeepMind  
----
-## Nitish Mutha
 ##### COMPGI13 Assignment 1
+---
+#### Nitish Mutha
+
 ##### email: nitish.mutha.16@ucl.ac.uk 
 
 
