@@ -1,12 +1,3 @@
----
-# Advanced Topics in Machine Learning
-### Course at UCL (University College London) by Google DeepMind  
-#### COMPGI13 Assignment 1 - MNIST digit classification with and without TensforFlow
----
-#### Nitish Mutha
-
-##### email: nitish.mutha.16@ucl.ac.uk 
----
 
 ### P1: MNIST with TensorFlow  
 #### a) 1 linear layer, followed by a softmax
